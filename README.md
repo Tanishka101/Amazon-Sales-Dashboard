@@ -1,2 +1,2 @@
 # Amazon-Sales-Dashboard
-This project comprehensive overview of Amazon product sales across specific geographic areas.
+This Power BI report provides a comprehensive overview of Amazon product sales across specific geographic areas. It highlights key performance metrics, including total sales volume, revenue trends, and top-performing products. The dashboard also incorporates customer preference insights, such as most viewed and frequently purchased items, offering valuable data on buying behavior. The interactive visuals enable easy exploration of regional sales patterns and customer trends to support data-driven decision-making.
